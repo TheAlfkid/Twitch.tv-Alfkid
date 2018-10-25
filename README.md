@@ -1,5 +1,7 @@
 # Dubtrack rules
 
+* This is an English only channel! 
+
 * Bork songs and other meme songs are welcome here
 
 * Don't queue a long song AKA 5+ minutes, it isn't fair for others.
