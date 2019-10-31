@@ -1,4 +1,4 @@
-# Dubtrack rules
+# PlugDJ rules
 
 * This is an English only channel! 
 
@@ -18,7 +18,7 @@
 
 * Do not harass other users. 
 
-* Do not advertise your own Dubtrack room, results in permanent ban. 
+* Do not advertise your own PlugDJ room, results in permanent ban. 
 
 * Rules will be added as necessary so be sure to come back here to check.
 
