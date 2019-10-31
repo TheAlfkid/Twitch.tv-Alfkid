@@ -1,6 +1,6 @@
 # PlugDJ rules
 
-* Command prefix is . (Use it like this: ".freespin")
+* Command prefix is . (Use it like this: ".rules")
 
 * This is an English only channel! 
 
