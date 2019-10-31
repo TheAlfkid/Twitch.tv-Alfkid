@@ -1,5 +1,7 @@
 # PlugDJ rules
 
+* Command prefix is . (Use it like this: ".freespin")
+
 * This is an English only channel! 
 
 * Bork songs and other meme songs are welcome here
